@@ -36,10 +36,10 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digbijaya20&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=D4AF37" alt="Digbijaya's GitHub Stats" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digbijaya20&theme=radical" alt="Digbijaya's Profile Details" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=digbijaya20&theme=radical&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digbijaya20&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=D4AF37" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=digbijaya20&theme=radical" alt="Digbijaya's Stats" width="80%">
 </p>
